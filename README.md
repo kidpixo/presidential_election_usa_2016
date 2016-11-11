@@ -10,6 +10,10 @@ Some State have no data (see nytimes_files_scraper.log)
 
 To download the demographic census data, run the `visualize.ipynb`.
 
+Here one example visualization from the notebook above:
+
+![Screen_Shot.png (772×682)](https://raw.githubusercontent.com/kidpixo/presidential_election_usa_2016/master/Screen_Shot.png)
+
 #### Data 
 
 Initially I saw this data at [usda/county-level-data-sets | data.world](https://data.world/usda/county-level-data-sets), originally from [USDA ERS - County-level Data Sets](http://www.ers.usda.gov/data-products/county-level-data-sets.aspx) in :
